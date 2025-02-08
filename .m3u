@@ -141,34 +141,283 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1054
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1116
 #EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="TV ABIERTA",MX: TELEMUNDO INT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1045
-#EXTINF:-1,Cinecanal HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460145
-#EXTINF:-1,Claro Cinema
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460146
-#EXTINF:-1,Discovery H&H HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460147
-#EXTINF:-1,Discovery Kids HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460148
-#EXTINF:-1,E! HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460149
-#EXTINF:-1,ESPN 4HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460150
-#EXTINF:-1,ESPN 5HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460151
-#EXTINF:-1,ESPN 7HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460152
-#EXTINF:-1,FX HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460153
-#EXTINF:-1,Food Network HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460154
-#EXTINF:-1,France 24
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460155
-#EXTINF:-1,GLOBAL
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460156
-#EXTINF:-1,GolTV HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460158
-#EXTINF:-1,Golden HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460159
-#EXTINF:-1,HBO 2 HD
-http://tvlatino.club:2082/evertspremium6m/err6z8bNZafy/460160
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-name="C/S• A&E (HD) »1«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/100
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »2«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/101
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »3«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/102
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="C/S• A&E (HD) »4«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/103
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="C/S• AMC (HD) »1«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/104
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »2«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/105
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »3«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/106
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »1«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/107
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »2«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/108
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »3«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/109
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »1«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/110
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »2«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/111
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/112
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »2«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/113
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »3«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/114
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE CANAL (HD) »4«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/115
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »1«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/116
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »2«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/117
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/118
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/119
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »1«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/121
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »2«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/122
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »3«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/123
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »1«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/124
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »2«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/125
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »3«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/126
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »1«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/127
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="C/S• GOLDEN (HD) »2«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/128
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »3«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/129
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »1«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/131
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="C/S• HBO 2 (HD) »2«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/132
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »3«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/133
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »4«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/134
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »1«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/135
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »2«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/136
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »3«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/137
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »4«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/138
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/139
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »3«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/140
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »4«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/141
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="C/S• HBO MUNDI (HD)" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="→ CINE & SERIES ←",C/S• HBO MUNDI (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/142
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/144
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »3«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/145
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »4«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/146
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »1«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/147
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »2«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/148
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »3«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/149
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »1«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/150
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »2«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/151
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »3«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/152
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »4«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/153
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »1«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/154
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/155
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »1«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/156
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »2«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/157
+#EXTINF:-1 tvg-id="I366.34887.schedulesdirect.org" tvg-name="C/S• HBO XTREME (HD) »3«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/158
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/160
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/161
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/162
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »1«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/166
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »2«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/167
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »3«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/168
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »4«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/169
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/170
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »2«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/171
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »3«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/172
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/173
+#EXTINF:-1 tvg-id="" tvg-name="C/S• A3 CINE (HD) »1«" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",C/S• A3 CINE (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/174
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="C/S• A3 SERIES (HD) »1«" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",C/S• A3 SERIES (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/175
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/176
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX ACTION (HD) »1«" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX ACTION (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/177
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX EAST (HD)" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX EAST (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/178
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »3«" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/179
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »4«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/180
+#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="C/S• DE PELÍCULA (HD) »1«" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/181
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA CLASICO (HD) »1«" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA CLASICO (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/182
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA PLUS (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/183
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/184
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/185
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/186
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »1«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/187
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »2«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/188
+#EXTINF:-1 tvg-id="" tvg-name="C/S• INDIE PLEX (HD)" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg" group-title="→ CINE & SERIES ←",C/S• INDIE PLEX (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/189
+#EXTINF:-1 tvg-id="" tvg-name="C/S• OUTERMAX (HD)" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• OUTERMAX (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/190
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/191
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/192
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/193
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT NETWORK (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT NETWORK (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/194
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT NETWORK (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT NETWORK (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/195
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »1«" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/196
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »2«" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/197
+#EXTINF:-1 tvg-id="" tvg-name="CINE: SHOWTIME WESTᴴᴰ" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg" group-title="→ CINE & SERIES ←",CINE: SHOWTIME WESTᴴᴰ
+http://premiumultra.xyz:8080/Patriciop/912909/198
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/199
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »2«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/200
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »3«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/201
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/202
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »2«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/203
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »3«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/204
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »4«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/205
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ CINEMA (HD)" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ CINEMA (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/206
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ COMEDY (HD)" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ COMEDY (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/207
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EAST (HD)" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EAST (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/208
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EDGE (HD)" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EDGE (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/209
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE BLACK (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE BLACK (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/210
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE CLASSIC (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE CLASSIC (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/211
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE FAMILY (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE FAMILY (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/212
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/213
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE SUSPENSE (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE SUSPENSE (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/214
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE WESTERN (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE WESTERN (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/215
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/216
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ WEST (HD)" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ WEST (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/217
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/218
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »2«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/219
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »3«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/220
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »4«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/221
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »1«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/222
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »2«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/223
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »3«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/224
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »4«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/225
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/226
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »2«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/227
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »3«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/228
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »1«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/229
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »2«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/230
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »3«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/231
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/232
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/233
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/234
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/235
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/236
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/237
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »4«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »4«
+http://premiumultra.xyz:8080/Patriciop/912909/238
+#EXTINF:-1 tvg-id="" tvg-name="C/S• RETROPLEX (HD)" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg" group-title="→ CINE & SERIES ←",C/S• RETROPLEX (HD)
+http://premiumultra.xyz:8080/Patriciop/912909/239
+#EXTINF:-1 tvg-id="" tvg-name="C/S• I-SAT (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",C/S• I-SAT (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/240
+#EXTINF:-1 tvg-id="" tvg-name="C/S• I-SAT (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",C/S• I-SAT (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/241
+#EXTINF:-1 tvg-id="" tvg-name="C/S• COMEDY CENTRAL (HD) »1«" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ CINE & SERIES ←",C/S• COMEDY CENTRAL (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/242
+#EXTINF:-1 tvg-id="" tvg-name="C/S• COMEDY CENTRAL (HD) »2«" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ CINE & SERIES ←",C/S• COMEDY CENTRAL (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/243
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »1«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »1«
+http://premiumultra.xyz:8080/Patriciop/912909/244
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »2«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »2«
+http://premiumultra.xyz:8080/Patriciop/912909/245
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »3«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »3«
+http://premiumultra.xyz:8080/Patriciop/912909/246
