@@ -293,7 +293,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2139
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2092
 #EXTINF:-1 tvg-id="NONE" tvg-name="*MX: NAT GEO WILD" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_wild.png" group-title="CULTURA",*MX: NAT GEO WILD
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2093
-#EXTINF:-1 tvg-id="I1150.59528.schedulesdirect.org" tvg-name="*MX: NUEVE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nueve.png" group-title="TV ABIERTA",*MX: NUEVE
+#EXTINF:-1 tvg-id="I1150.59528.schedulesdirect.org" tvg-name="*MX: NUEVE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nueve.png" group-title="MEXICO",*MX: NUEVE
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2154
 #EXTINF:-1 tvg-id="I404.73535.schedulesdirect.org" tvg-name="*MX: PANICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/panico.png" group-title="CINE",*MX: PANICO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2099
@@ -321,7 +321,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2108
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2112
 #EXTINF:-1 tvg-id="I153.34344.schedulesdirect.org" tvg-name="*MX: TELEFORMULA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/teleformula.png" group-title="NOTICIAS",MX: TELEFORMULA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2114
-#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="*MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="TV ABIERTA",MX: TELEMUNDO
+#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="*MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="MEXICO",MX: TELEMUNDO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2116
 #EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="*MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="TV ABIERTA",*MX: TELEMUNDO INT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2045
@@ -343,7 +343,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2142
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2141
 #EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="*MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="CINE",*MX: UNIVERSO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2130
-#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="*MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="TV ABIERTA",*MX: UNIVISION
+#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="*MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="MEXICO",*MX: UNIVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2132
 #EXTINF:-1 tvg-id="I1212.98111.schedulesdirect.org" tvg-name="*MX: WARNER CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/warner_channel.png" group-title="CINE",*MX: WARNER CHANNEL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2136
@@ -355,30 +355,30 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1030
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1053
 #EXTINF:-1 tvg-id="I156.61719.schedulesdirect.org" tvg-name="MX: MILENIO TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/milenio_tv.png" group-title="NOTICIAS",MX: MILENIO TV
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1139
-#EXTINF:-1 tvg-id="I1150.59528.schedulesdirect.org" tvg-name="MX: NUEVE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nueve.png" group-title="TV ABIERTA",MX: NUEVE
+#EXTINF:-1 tvg-id="I1150.59528.schedulesdirect.org" tvg-name="MX: NUEVE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nueve.png" group-title="MEXICO",MX: NUEVE
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1154
 #EXTINF:-1 tvg-id="I353.69367.schedulesdirect.org" tvg-name="MX: RT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/rt.png" group-title="NOTICIAS",MX: RT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1104
 #EXTINF:-1 tvg-id="I153.34344.schedulesdirect.org" tvg-name="MX: TELEFORMULA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/teleformula.png" group-title="NOTICIAS",MX: TELEFORMULA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1114
-#EXTINF:-1 tvg-id="I1246.104892.schedulesdirect.org" tvg-name="MX: A+" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amas.png" group-title="TV ABIERTA",MX: A+
+#EXTINF:-1 tvg-id="I1246.104892.schedulesdirect.org" tvg-name="MX: A+" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amas.png" group-title="MEXICO",MX: A+
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1146
-#EXTINF:-1 tvg-id="I1107.85572.schedulesdirect.org" tvg-name="MX: AZTECA 7" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_7.png" group-title="TV ABIERTA",MX: AZTECA 7
+#EXTINF:-1 tvg-id="I1107.85572.schedulesdirect.org" tvg-name="MX: AZTECA 7" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_7.png" group-title="MEXICO",MX: AZTECA 7
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1006
-#EXTINF:-1 tvg-id="I1101.101360.schedulesdirect.org" tvg-name="MX: AZTECA UNO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_uno.png" group-title="TV ABIERTA",MX: AZTECA UNO
+#EXTINF:-1 tvg-id="I1101.101360.schedulesdirect.org" tvg-name="MX: AZTECA UNO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_uno.png" group-title="MEXICO",MX: AZTECA UNO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1008
-#EXTINF:-1 tvg-id="I1159.100032.schedulesdirect.org" tvg-name="MX: AZTECA UNO -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_uno.png" group-title="TV ABIERTA",MX: AZTECA UNO -2
+#EXTINF:-1 tvg-id="I1159.100032.schedulesdirect.org" tvg-name="MX: AZTECA UNO -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/azteca_uno.png" group-title="MEXICO",MX: AZTECA UNO -2
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1177
-#EXTINF:-1 tvg-id="I3022.91060.schedulesdirect.org" tvg-name="MX: CANAL 22" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_22.png" group-title="TV ABIERTA",MX: CANAL 22
+#EXTINF:-1 tvg-id="I3022.91060.schedulesdirect.org" tvg-name="MX: CANAL 22" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_22.png" group-title="MEXICO",MX: CANAL 22
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1013
-#EXTINF:-1 tvg-id="I1105.52762.schedulesdirect.org" tvg-name="MX: CANAL 5" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_5.png" group-title="TV ABIERTA",MX: CANAL 5
+#EXTINF:-1 tvg-id="I1105.52762.schedulesdirect.org" tvg-name="MX: CANAL 5" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_5.png" group-title="MEXICO",MX: CANAL 5
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1014
-#EXTINF:-1 tvg-id="I1111.87620.schedulesdirect.org" tvg-name="MX: CANAL ONCE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_once.png" group-title="TV ABIERTA",MX: CANAL ONCE
+#EXTINF:-1 tvg-id="I1111.87620.schedulesdirect.org" tvg-name="MX: CANAL ONCE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/canal_once.png" group-title="MEXICO",MX: CANAL ONCE
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1016
-#EXTINF:-1 tvg-id="I1103.101111.schedulesdirect.org" tvg-name="MX: IMAGEN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/imagen.png" group-title="TV ABIERTA",MX: IMAGEN
+#EXTINF:-1 tvg-id="I1103.101111.schedulesdirect.org" tvg-name="MX: IMAGEN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/imagen.png" group-title="MEXICO",MX: IMAGEN
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1081
-#EXTINF:-1 tvg-id="I1102.16461.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas.png" group-title="TV ABIERTA",MX: LAS ESTRELLAS
+#EXTINF:-1 tvg-id="I1102.16461.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas.png" group-title="MEXICO",MX: LAS ESTRELLAS
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1083
-#EXTINF:-1 tvg-id="I1148.70110.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas_-2.png" group-title="TV ABIERTA",MX: LAS ESTRELLAS -2
+#EXTINF:-1 tvg-id="I1148.70110.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas_-2.png" group-title="MEXICO",MX: LAS ESTRELLAS -2
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1152
 
