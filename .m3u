@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1003
 #EXTINF:-1 tvg-id="I3124.62125.schedulesdirect.org" tvg-name="MX: CINE ESTELAR" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/cine_estelar.png" group-title="CINE",MX: CINE ESTELAR
@@ -65,7 +65,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1108
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1001
 #EXTINF:-1 tvg-id="I1269.107374.schedulesdirect.org" tvg-name="MX: ANIMAL PLANET" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/animal_planet.png" group-title="CULTURA",MX: ANIMAL PLANET
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1004
-#EXTINF:-1 tvg-id="I225.59582.schedulesdirect.org" tvg-name="MX: DISCOVERY H AND H" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_h_and_h.png" group-title="CULTURA",MX: DISCOVERY H AND H
+#EXTINF:-1 tvg-id="I225.59582.schedulesdirect.org" tvg-name="MX: DISCOVERY H AND H" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_h_and_h.png" group-title="CULTURA",MX: DISCOVERY H&H
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1036
 #EXTINF:-1 tvg-id="I1261.96307.schedulesdirect.org" tvg-name="MX: DISCOVERY MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_mexico.png" group-title="CULTURA",MX: DISCOVERY MEXICO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1038
@@ -157,7 +157,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2129
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2142
 #EXTINF:-1 tvg-id="NONE" tvg-name="*MX: UNIVERSAL PREMIER" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL PREMIER
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2141
-#EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="*MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="CINE",*MX: UNIVERSO
+#EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="*MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="ENTRETENIMIENTO",MX: UNIVERSO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2130
 #EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="*MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="TV ABIERTA",*MX: UNIVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2132
@@ -197,63 +197,63 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1081
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1083
 #EXTINF:-1 tvg-id="I1148.70110.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas_-2.png" group-title="TV ABIERTA",MX: LAS ESTRELLAS -2
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1152
-#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-name="A&E FHD01" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE",MX: A&E 
+#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-name="A&E FHD01" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE",MX: A&E (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/100
-#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »2«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »2«
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »2«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/101
-#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »3«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »3«
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »3«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/102
-#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="C/S• A&E (HD) »4«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »4«
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="C/S• A&E (HD) »4«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/103
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="C/S• AMC (HD) »1«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/104
 #EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »2«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/105
-#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »3«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »3«
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »3«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="CINE",MX: AMC (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/106
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »1«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/107
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »2«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/108
-#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »3«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »3«
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »3«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="CINE",MX: AXN (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/109
 #EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »1«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/110
-#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »2«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »2«
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »2«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="CINE",MX: CINE LATINO (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/111
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/112
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »2«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/113
-#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »3«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »3«
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »3«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="CINE",MX: CINECANAL (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/114
-#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE CANAL (HD) »4«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE CANAL (HD) »4«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/115
 #EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »1«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/116
-#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »2«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »2«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="CINE",MX: CINE DINAMITA (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/117
 #EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/118
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="CINE",MX: CINEMAX (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/119
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »1«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/121
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »2«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/122
-#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »3«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »3«
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »3«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="CINE",MX: DHE (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/123
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »1«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/124
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »2«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/125
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »3«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »3«
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »3«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="CINE",MX: FX (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/126
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »1«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/127
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="C/S• GOLDEN (HD) »2«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/128
-#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »3«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »3«
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »3«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="CINE",MX: GOLDEN (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/129
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »1«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/131
@@ -261,7 +261,7 @@ http://premiumultra.xyz:8080/Patriciop/912909/131
 http://premiumultra.xyz:8080/Patriciop/912909/132
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »3«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/133
-#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »4«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »4«
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »4«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="CINE",MX: HBO 2 (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/134
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »1«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/135
@@ -269,29 +269,29 @@ http://premiumultra.xyz:8080/Patriciop/912909/135
 http://premiumultra.xyz:8080/Patriciop/912909/136
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »3«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/137
-#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »4«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »4«
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »4«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="CINE",MX: HBO FAMILY (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/138
-#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »2«
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="CINE",MX: HBO (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/139
-#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »3«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »3«
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »3«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/140
-#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »4«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »4«
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »4«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/141
-#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="C/S• HBO MUNDI (HD)" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="→ CINE & SERIES ←",C/S• HBO MUNDI (HD)
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="C/S• HBO MUNDI (HD)" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="CINE",MX: HBO MUNDI (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/142
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »2«
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="CINE",MX: HBO PLUS (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/144
-#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »3«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »3«
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »3«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/145
-#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »4«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »4«
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »4«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/146
-#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »1«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »1«
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »1«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="CINE",MX: HBO POP (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/147
-#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »2«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »2«
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »2«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/148
-#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »3«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »3«
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »3«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/149
-#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »1«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »1«
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »1«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="CINE",MX: HBO SIGNATURE (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/150
 #EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »2«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/151
@@ -299,23 +299,23 @@ http://premiumultra.xyz:8080/Patriciop/912909/151
 http://premiumultra.xyz:8080/Patriciop/912909/152
 #EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »4«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »4«
 http://premiumultra.xyz:8080/Patriciop/912909/153
-#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »1«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »1«
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »1«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="CINE",MX: HBO SUBTITULADO (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/154
 #EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/155
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »1«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »1«
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »1«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="CINE",MX: HBO XTREME (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/156
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »2«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/157
 #EXTINF:-1 tvg-id="I366.34887.schedulesdirect.org" tvg-name="C/S• HBO XTREME (HD) »3«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/158
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="CINE",MX: STAR CHANNEL (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/160
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/161
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/162
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »1«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »1«
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »1«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="CINE",MX: TNT (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/166
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »2«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/167
@@ -323,13 +323,13 @@ http://premiumultra.xyz:8080/Patriciop/912909/167
 http://premiumultra.xyz:8080/Patriciop/912909/168
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »4«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »4«
 http://premiumultra.xyz:8080/Patriciop/912909/169
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »1«
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="CINE",MX: TNT SERIES (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/170
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »2«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »2«
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »2«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/171
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »3«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/172
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="CINE",MX: CINEMAX (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/173
 #EXTINF:-1 tvg-id="" tvg-name="C/S• A3 CINE (HD) »1«" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",C/S• A3 CINE (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/174
@@ -337,7 +337,7 @@ http://premiumultra.xyz:8080/Patriciop/912909/174
 http://premiumultra.xyz:8080/Patriciop/912909/175
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/176
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX ACTION (HD) »1«" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX ACTION (HD) »1«
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX ACTION (HD) »1«" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title=""CINE",MX:CINEMAX ACTION (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/177
 #EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX EAST (HD)" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX EAST (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/178
@@ -345,27 +345,27 @@ http://premiumultra.xyz:8080/Patriciop/912909/178
 http://premiumultra.xyz:8080/Patriciop/912909/179
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »4«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »4«
 http://premiumultra.xyz:8080/Patriciop/912909/180
-#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="C/S• DE PELÍCULA (HD) »1«" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA (HD) »1«
+#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="C/S• DE PELÍCULA (HD) »1«" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="CINE",MX: DE PELÍCULA (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/181
-#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA CLASICO (HD) »1«" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA CLASICO (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA CLASICO (HD) »1«" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="CINE",MX: DE PELÍCULA CLASICO (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/182
-#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA PLUS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="CINE",MX: DE PELÍCULA PLUS (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/183
-#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="CINE",MX: EURO CHANNEL (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/184
 #EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/185
 #EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/186
-#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »1«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »1«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="CINE",MX: EUROPA EUROPA (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/187
 #EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »2«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/188
-#EXTINF:-1 tvg-id="" tvg-name="C/S• INDIE PLEX (HD)" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg" group-title="→ CINE & SERIES ←",C/S• INDIE PLEX (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• INDIE PLEX (HD)" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg" group-title="CINE",MX: INDIE PLEX (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/189
-#EXTINF:-1 tvg-id="" tvg-name="C/S• OUTERMAX (HD)" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• OUTERMAX (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• OUTERMAX (HD)" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg" group-title="CINE",MX: OUTERMAX (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/190
-#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="CINE",MX: PARAMOUNT CHANNEL (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/191
 #EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/192
@@ -375,19 +375,19 @@ http://premiumultra.xyz:8080/Patriciop/912909/193
 http://premiumultra.xyz:8080/Patriciop/912909/194
 #EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT NETWORK (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT NETWORK (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/195
-#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »1«" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »1«" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="CINE",MX: SHOWTIME EAST (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/196
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »2«" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/197
-#EXTINF:-1 tvg-id="" tvg-name="CINE: SHOWTIME WESTᴴᴰ" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg" group-title="→ CINE & SERIES ←",CINE: SHOWTIME WESTᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="CINE: SHOWTIME WESTᴴᴰ" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg" group-title="CINE",MX: SHOWTIME WESTᴴᴰ
 http://premiumultra.xyz:8080/Patriciop/912909/198
-#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="CINE",MX: SONY (HD) »1«
 http://premiumultra.xyz:8080/Patriciop/912909/199
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »2«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/200
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »3«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/201
-#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="CINE",MX: SPACE (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/202
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »2«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/203
@@ -395,31 +395,31 @@ http://premiumultra.xyz:8080/Patriciop/912909/203
 http://premiumultra.xyz:8080/Patriciop/912909/204
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »4«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »4«
 http://premiumultra.xyz:8080/Patriciop/912909/205
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ CINEMA (HD)" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ CINEMA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ CINEMA (HD)" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="CINE",MX:STARZ CINEMA (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/206
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ COMEDY (HD)" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ COMEDY (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ COMEDY (HD)" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="CINE",MX: STARZ COMEDY (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/207
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EAST (HD)" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EAST (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EAST (HD)" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="CINE",MX: STARZ EAST (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/208
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EDGE (HD)" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EDGE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EDGE (HD)" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="CINE",MX: STARZ EDGE (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/209
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE BLACK (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE BLACK (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE BLACK (HD)" tvg-logo="" group-title="CINE",MX: STARZ ENCORE BLACK (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/210
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE CLASSIC (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE CLASSIC (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE CLASSIC (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="CINE",MX: STARZ ENCORE CLASSIC (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/211
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE FAMILY (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE FAMILY (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE FAMILY (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="CINE",MX: STARZ ENCORE FAMILY (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/212
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE (HD)" tvg-logo="" group-title="CINE",MX: STARZ ENCORE (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/213
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE SUSPENSE (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE SUSPENSE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE SUSPENSE (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="CINE",MX: STARZ ENCORE SUSPENSE (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/214
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE WESTERN (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE WESTERN (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE WESTERN (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="CINE",MX: STARZ ENCORE WESTERN (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/215
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ (HD)" tvg-logo="" group-title="CINE",MX: STARZ (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/216
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ WEST (HD)" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ WEST (HD)
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ WEST (HD)" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="CINE",MX: STARZ WEST (HD)
 http://premiumultra.xyz:8080/Patriciop/912909/217
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="CINE",MX: STUDIO UNIVERSAL (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/218
 #EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »2«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/219
@@ -427,7 +427,7 @@ http://premiumultra.xyz:8080/Patriciop/912909/219
 http://premiumultra.xyz:8080/Patriciop/912909/220
 #EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »4«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »4«
 http://premiumultra.xyz:8080/Patriciop/912909/221
-#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »1«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »1«" tvg-logo="" group-title="CINE",MX: SYFY (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/222
 #EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »2«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/223
@@ -447,13 +447,13 @@ http://premiumultra.xyz:8080/Patriciop/912909/229
 http://premiumultra.xyz:8080/Patriciop/912909/230
 #EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »3«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/231
-#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="CINE",MX: UNIVERSAL CHANNEL (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/232
 #EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/233
 #EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »3«
 http://premiumultra.xyz:8080/Patriciop/912909/234
-#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="CINE",MX: WARNER CHANNEL (HD) 
 http://premiumultra.xyz:8080/Patriciop/912909/235
 #EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »2«
 http://premiumultra.xyz:8080/Patriciop/912909/236
@@ -915,3 +915,210 @@ http://premiumultra.xyz:8080/Patriciop/912909/55061
 http://premiumultra.xyz:8080/Patriciop/912909/55062
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca Click HD" tvg-logo="https://i.imgur.com/cOf7mXM.png" group-title="→ MÉXICO ←",MX || Azteca Click HD
 http://premiumultra.xyz:8080/Patriciop/912909/55063
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42199
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 02 Inmaculada (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 02 Inmaculada (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42197
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 03 Reunión (2024) HD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 03 Reunión (2024) HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42196
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 04  El viaje (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 04  El viaje (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42195
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 05 Amar Singh Chamkila (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 05 Amar Singh Chamkila (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42194
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 06 Robo (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 06 Robo (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42193
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 07 The Greatest Hits (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 07 The Greatest Hits (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42192
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 08 El Pájaro Loco se va de campamento (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 08 El Pájaro Loco se va de campamento (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42191
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 09 El roomie - 2024" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 09 El roomie - 2024
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42190
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 10 Sangre fría (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 10 Sangre fría (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42189
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 11 Kung Fu Panda 4 (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 11 Kung Fu Panda 4 (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42188
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 12 Rescate Imposible (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 12 Rescate Imposible (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42187
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 13 - Recuerdos Mortales (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 13 - Recuerdos Mortales (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42186
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 14 Arthur's Whisky (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 14 Arthur's Whisky (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42185
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 15 Knox Goes Away (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 15 Knox Goes Away (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42184
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 16 Quiero que me mantengan - 2024 SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 16 Quiero que me mantengan - 2024 SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42183
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 17 Quiero que me mantengan - 2024 HD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 17 Quiero que me mantengan - 2024 HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42182
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 18 Fabricante de lágrimas (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 18 Fabricante de lágrimas (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42181
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 19 French Girl - 2024" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 19 French Girl - 2024
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42180
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 20 Cómo Conquistar A Billy Walsh (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 20 Cómo Conquistar A Billy Walsh (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42179
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 21 Música - 2024" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 21 Música - 2024
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42178
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 22 La gran exclusiva (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 22 La gran exclusiva (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42177
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 23 Madu (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 23 Madu (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42176
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 24 Ordinary Angels (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 24 Ordinary Angels (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42175
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 25 Snack Shack (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 25 Snack Shack (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42174
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 26 Un Hipster En La España Vacía (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 26 Un Hipster En La España Vacía (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42173
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 27 El corazón del cazador - 2024" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 27 El corazón del cazador - 2024
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42172
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 28 Imaginario: juguete diabólico (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 28 Imaginario: juguete diabólico (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42171
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 29 Lisa Frankenstein - 2024" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 29 Lisa Frankenstein - 2024
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42170
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 30 El juego bonito (2024) SD" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 30 El juego bonito (2024) SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42169
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 31 El salario del miedo (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 31 El salario del miedo (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42168
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 32 Rescate en Ámsterdam - 2023" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 32 Rescate en Ámsterdam - 2023
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42167
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 33 Club de Caza (2023)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 33 Club de Caza (2023)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42166
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 34 Nightman: La sombra del mal (2023)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 34 Nightman: La sombra del mal (2023)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42165
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 35 Asphalt City (2024)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 35 Asphalt City (2024)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42164
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 36 Ein Fest fürs Leben (2023)" tvg-logo="https://pbs.twimg.com/profile_images/1862877498/ppvlogo2_400x400.jpg" group-title="CINEMA LATINO",*Latino | Cinema 36 Ein Fest fürs Leben (2023)
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42163
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Lat | Cinemax HD" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="CINEMA LATINO",Lat | Cinemax HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42162
+#EXTINF:-1 tvg-id="● Latino | HBO East HD 1080P-" tvg-name="Lat | HBO East HD" tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg" group-title="CINEMA LATINO",Lat | HBO East HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42161
+#EXTINF:-1 tvg-id="CLARO2: HBO FAMILY HD" tvg-name="Lat | HBO Family HD" tvg-logo="https://i.pinimg.com/236x/97/b4/55/97b455c74214bcd8363ecdc341373304.jpg" group-title="CINEMA LATINO",Lat | HBO Family HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42160
+#EXTINF:-1 tvg-id="CLARO2: HBO PLUS HD" tvg-name="Lat | Hbo Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/1259646924472254464/1JP7hmEx_400x400.jpg" group-title="CINEMA LATINO",Lat | Hbo Plus HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42159
+#EXTINF:-1 tvg-id="● Latino | HBO Plus West HD 1080P-" tvg-name="Lat | Hbo Plus West HD" tvg-logo="https://pbs.twimg.com/profile_images/1259646924472254464/1JP7hmEx_400x400.jpg" group-title="CINEMA LATINO",Lat | Hbo Plus West HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42158
+#EXTINF:-1 tvg-id="● Latino | HBO SIGNATURE HD 1080P-" tvg-name="Lat | Hbo Signature HD" tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg" group-title="CINEMA LATINO",Lat | Hbo Signature HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42157
+#EXTINF:-1 tvg-id="● Latino | HBO West HD 1080P-" tvg-name="Lat | Hbo West HD" tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg" group-title="CINEMA LATINO",Lat | Hbo West HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42156
+#EXTINF:-1 tvg-id="● Latino | ndiePlex HD 1080P-" tvg-name="Lat | IndiePlex HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvQtu85KMEPIOkj4360MeGhHZXDVsgFJWWhIlfqVtoQ&s" group-title="CINEMA LATINO",Lat | IndiePlex HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42155
+#EXTINF:-1 tvg-id="● Latino | MoreMax HD 1080P-" tvg-name="Lat | MoreMax HD" tvg-logo="https://i.ytimg.com/vi/2eBc3rw3440/sddefault.jpg" group-title="CINEMA LATINO",Lat | MoreMax HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42154
+#EXTINF:-1 tvg-id="● Latino | MovieMax HD 1080P-" tvg-name="Lat | MovieMax HD" tvg-logo="https://pbs.twimg.com/profile_images/1772870900083232768/rRj3c3Aw_400x400.jpg" group-title="CINEMA LATINO",Lat | MovieMax HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42153
+#EXTINF:-1 tvg-id="● Latino | MoviePlex HD 1080P-" tvg-name="Lat | MoviePlex HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDX4IldqY18oEFnDZODBwhoaNZnvnuZ4fECJfyLh5PNA&s" group-title="CINEMA LATINO",Lat | MoviePlex HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42152
+#EXTINF:-1 tvg-id="● Latino | OuterMax HD 1080P-" tvg-name="Lat | OuterMax HD" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Cinemax/premium-channel-cinemax-outer-max.jpg" group-title="CINEMA LATINO",Lat | OuterMax HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42151
+#EXTINF:-1 tvg-id="● Latino | RetroPlex HD 1080P-" tvg-name="Lat | RetroPlex HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIso_-BF_8-U17OkGIoGO8bym9KBrt0tRDHqFvGaebaw&s" group-title="CINEMA LATINO",Lat | RetroPlex HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42150
+#EXTINF:-1 tvg-id="● Latino | Showtime East HD-" tvg-name="Lat  | Showtime East" tvg-logo="https://i.pinimg.com/474x/ed/c4/1c/edc41c6f93501571b54e10ed417517bf.jpg" group-title="CINEMA LATINO",Lat  | Showtime East
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42148
+#EXTINF:-1 tvg-id="● Latino | Showtime HD-" tvg-name="Lat | SHOWTIME HD" tvg-logo="https://i.pinimg.com/474x/ed/c4/1c/edc41c6f93501571b54e10ed417517bf.jpg" group-title="CINEMA LATINO",Lat | SHOWTIME HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42146
+#EXTINF:-1 tvg-id="" tvg-name="Lat | Showtime HD" tvg-logo="https://i.pinimg.com/474x/ed/c4/1c/edc41c6f93501571b54e10ed417517bf.jpg" group-title="CINEMA LATINO",Lat | Showtime HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42147
+#EXTINF:-1 tvg-id="● Latino | Showtime West HD-" tvg-name="Lat | Showtime West HD" tvg-logo="https://i.pinimg.com/474x/ed/c4/1c/edc41c6f93501571b54e10ed417517bf.jpg" group-title="CINEMA LATINO",Lat | Showtime West HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42145
+#EXTINF:-1 tvg-id="● Latino | Starz Black HD 1080P-" tvg-name="Lat | Starz Black HD" tvg-logo="https://pbs.twimg.com/profile_images/753117167646900224/8S8oqKqm_400x400.jpg" group-title="CINEMA LATINO",Lat | Starz Black HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42144
+#EXTINF:-1 tvg-id="~ SD FOX CINEMA" tvg-name="Lat | Starz Cinema HD" tvg-logo="https://www.thetvaddict.com/wp-content/uploads/2019/02/Starz-Logo.jpg" group-title="CINEMA LATINO",Lat | Starz Cinema HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42143
+#EXTINF:-1 tvg-id="● Latino | Starz Encore Family HD 1080P-" tvg-name="Lat | Starz Family HD" tvg-logo="https://pbs.twimg.com/profile_images/1631466104102191106/mj0aFDgA_400x400.jpg" group-title="CINEMA LATINO",Lat | Starz Family HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42135
+#EXTINF:-1 tvg-id="● Latino | Starz Family HD-" tvg-name="Lat |  Starz Family HD" tvg-logo="https://pbs.twimg.com/profile_images/1631466104102191106/mj0aFDgA_400x400.jpg" group-title="CINEMA LATINO",Lat |  Starz Family HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42130
+#EXTINF:-1 tvg-id="? Latino | Starz Kids & Family HD 1080P-" tvg-name="Lat | Starz Kids & Family HD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/starz-kids-family-200.jpg" group-title="CINEMA LATINO",Lat | Starz Kids & Family HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/42128
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="Lat | HBO HD Opc 1" tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg" group-title="CINEMA LATINO",Lat | HBO HD Opc 1
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1124169
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX || Axn Vip" tvg-logo="https://pbs.twimg.com/profile_images/1678499123324911620/nVt9AnVC_400x400.jpg" group-title="CINEMA LATINO",MX || Axn Vip
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/16518
+#EXTINF:-1 tvg-id="MX |* UNIVERSAL CHANNEL HD" tvg-name="MX || Universal Vip HD" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" group-title="CINEMA LATINO",MX || Universal Vip HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/16514
+#EXTINF:-1 tvg-id="~ SD CINECANAL" tvg-name="MX || Cine Canal Vip" tvg-logo="https://pbs.twimg.com/profile_images/1620917013639041032/8wa90YNo_400x400.jpg" group-title="CINEMA LATINO",MX || Cine Canal Vip
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/16370
+#EXTINF:-1 tvg-id="CLARO2: FOX HD" tvg-name="Lat | Fox HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="CINEMA LATINO",Lat | Fox HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19427
+#EXTINF:-1 tvg-id="CLARO2: HBO PLUS HD" tvg-name="Lat | Hbo Plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA LATINO",Lat | Hbo Plus HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19352
+#EXTINF:-1 tvg-id="CLARO2: HBO FAMILY HD" tvg-name="Lat | HBO Family HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png" group-title="CINEMA LATINO",Lat | HBO Family HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19374
+#EXTINF:-1 tvg-id="● Latino | HBO SIGNATURE HD 1080P-" tvg-name="Lat | Hbo Signature HD" tvg-logo="https://i.imgur.com/zzBWR0S.jpeg" group-title="CINEMA LATINO",Lat | Hbo Signature HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19426
+#EXTINF:-1 tvg-id="MX |* A&E FHD" tvg-name="MX || A&E SD" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" group-title="CINEMA LATINO",MX || A&E SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81780
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="MX || Cinemax HD" tvg-logo="https://pbs.twimg.com/profile_images/1304146244563070976/tI5KnuJP_400x400.jpg" group-title="CINEMA LATINO",MX || Cinemax HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81859
+#EXTINF:-1 tvg-id="MX | De Pelicula plus" tvg-name="MX || De Pelicula Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a_400x400.jpg" group-title="CINEMA LATINO",MX || De Pelicula Plus HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81864
+#EXTINF:-1 tvg-id="MX |* GOLDEN PLUS HD" tvg-name="MX || Golden Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINEMA LATINO",MX || Golden Plus HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81866
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="MX || De Pelicula" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a_400x400.jpg" group-title="CINEMA LATINO",MX || De Pelicula
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81887
+#EXTINF:-1 tvg-id="GOLDEN EDGE HD" tvg-name="MX || Golden Edge SD" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA LATINO",MX || Golden Edge SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81690
+#EXTINF:-1 tvg-id="MX |* SONY FHD" tvg-name="MX || Sony Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/1693548544131469313/qkhugxJG_400x400.jpg" group-title="CINEMA LATINO",MX || Sony Channel HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81954
+#EXTINF:-1 tvg-id="MX |* PARAMOUNT HD" tvg-name="MX || Paramount Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/1720434911335661568/XEFsKJuR_400x400.jpg" group-title="CINEMA LATINO",MX || Paramount Channel HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81977
+#EXTINF:-1 tvg-id="GOLDEN EDGE HD" tvg-name="MX || Golden Edge SD" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA LATINO",MX || Golden Edge SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81858
+#EXTINF:-1 tvg-id="MX |* WARNER FHD" tvg-name="MX || Warner HD" tvg-logo="https://pbs.twimg.com/profile_images/1333954194043068416/l7q0xPNY_400x400.jpg" group-title="CINEMA LATINO",MX || Warner HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81953
+#EXTINF:-1 tvg-id="MX |* PARAMOUNT HD" tvg-name="MX || Paramount SD" tvg-logo="https://www.areacucuta.com/wp-content/uploads/2014/11/Paramount-icone.png" group-title="CINEMA LATINO",MX || Paramount SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81819
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="MX || De Pelicula plus SD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINEMA LATINO",MX || De Pelicula plus SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81695
+#EXTINF:-1 tvg-id="MX |* GOLDEN PLUS HD" tvg-name="MX || Golden Plus SD" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINEMA LATINO",MX || Golden Plus SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81698
+#EXTINF:-1 tvg-id="MX | De Pelicula plus" tvg-name="MX || De pelicula Opc 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a_400x400.jpg" group-title="CINEMA LATINO",MX || De pelicula Opc 1 SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81720
+#EXTINF:-1 tvg-id="MX |* START HD" tvg-name="MX || Star Channel SD" tvg-logo="https://pbs.twimg.com/profile_images/1355718241201623043/t-byOw50_400x400.jpg" group-title="CINEMA LATINO",MX || Star Channel SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81742
+#EXTINF:-1 tvg-id="MX |* START HD" tvg-name="MX || Star Channel SD Opc 1" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINEMA LATINO",MX || Star Channel SD Opc 1
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81791
+#EXTINF:-1 tvg-id="GOLDEN HD" tvg-name="MX || Golden SD Opc 1" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINEMA LATINO",MX || Golden SD Opc 1
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81828
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="MX || Cinecanal HD" tvg-logo="https://pbs.twimg.com/profile_images/1218048141913739266/_5KY85GB_400x400.jpg" group-title="CINEMA LATINO",MX || Cinecanal HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81868
+#EXTINF:-1 tvg-id="MX |* ESTUDIO UNIVERSAL HD" tvg-name="MX || Studio Universal SD" tvg-logo="https://pbs.twimg.com/profile_images/1688611310760505344/R7MqeTyL_400x400.jpg" group-title="CINEMA LATINO",MX || Studio Universal SD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81687
+#EXTINF:-1 tvg-id="GOLDEN HD" tvg-name="MX || Golden" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINEMA LATINO",MX || Golden
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/81986
+#EXTINF:-1 tvg-id="CLARO2: CINELATINO" tvg-name="LAt | Cinelatino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINEMA LATINO",LAt | Cinelatino
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19366
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Lat | Cinemax" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="CINEMA LATINO",Lat | Cinemax
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19388
+#EXTINF:-1 tvg-id="CLARO2: HBO (W)." tvg-name="Lat | Hbo (W)." tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg" group-title="CINEMA LATINO",Lat | Hbo (W).
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19462
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="Lat | DE Pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINEMA LATINO",Lat | DE Pelicula
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19485
+#EXTINF:-1 tvg-id="~ HD Cinecanal" tvg-name="Lat | Cinecanal HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="CINEMA LATINO",Lat | Cinecanal HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19357
+#EXTINF:-1 tvg-id="CLARO2: HBO 2 HD" tvg-name="Lat | Hbo 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="CINEMA LATINO",Lat | Hbo 2 HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/19392
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="Lat | Hbo Xtreme" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="CINEMA LATINO",Lat | Hbo Xtreme
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1155904
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg" group-title="CINEMA LATINO",Universal Crime
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1242799
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://pbs.twimg.com/profile_images/1069993311165931520/RSoh7Ku2_400x400.jpg" group-title="CINEMA LATINO",Universal Comedy
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1242800
+#EXTINF:-1 tvg-id="CO|| STUDIO UNIVERSAL" tvg-name="Universal Cinema" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" group-title="CINEMA LATINO",Universal Cinema
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1242801
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.395393765_UniversalReality-Oscuro.png.8518c59cfd673c467b2397cdd6a6d007.png" group-title="CINEMA LATINO",Universal Reality
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1242802
+#EXTINF:-1 tvg-id="MX |* UNIVERSAL CHANNEL HD" tvg-name="Universal Premiere" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="CINEMA LATINO",Universal Premiere
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1242803
+#EXTINF:-1 tvg-id="MX |* UNIVERSAL CHANNEL HD" tvg-name="Cinema|| Univeral Cinema" tvg-logo="https://pbs.twimg.com/profile_images/1603409296653426689/dHXA2VEC_400x400.jpg" group-title="CINEMA LATINO",Cinema|| Univeral Cinema
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1117820
+#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Opc 1" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINEMA LATINO",LAT || Star Opc 1
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1307169
+#EXTINF:-1 tvg-id="" tvg-name="LAT | STARZ ENCORE SUSPENSE" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-suspense.png" group-title="CINEMA LATINO",LAT | STARZ ENCORE SUSPENSE
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389554
+#EXTINF:-1 tvg-id="" tvg-name="LAT | STARZ ENCORE FAMILY" tvg-logo="https://archive.org/download/StarzEncoreFamily/starz%20encore%20family.png" group-title="CINEMA LATINO",LAT | STARZ ENCORE FAMILY
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389553
+#EXTINF:-1 tvg-id="" tvg-name="LAT | STARZ ENCORE CLASSICS" tvg-logo="https://pbs.twimg.com/profile_images/484161379570425856/-GN1AzJP_400x400.jpeg" group-title="CINEMA LATINO",LAT | STARZ ENCORE CLASSICS
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389552
+#EXTINF:-1 tvg-id="MX |* CLARO SPORTS FHD" tvg-name="LAT | STARZ EDGE HD" tvg-logo="https://pbs.twimg.com/profile_images/1631466104102191106/mj0aFDgA_400x400.jpg" group-title="CINEMA LATINO",LAT | STARZ EDGE HD
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389551
