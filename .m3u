@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1003
 #EXTINF:-1 tvg-id="I3124.62125.schedulesdirect.org" tvg-name="MX: CINE ESTELAR" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/cine_estelar.png" group-title="CINE",MX: CINE ESTELAR
@@ -1122,3 +1122,75 @@ http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389553
 http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389552
 #EXTINF:-1 tvg-id="MX |* CLARO SPORTS FHD" tvg-name="LAT | STARZ EDGE HD" tvg-logo="https://pbs.twimg.com/profile_images/1631466104102191106/mj0aFDgA_400x400.jpg" group-title="CINEMA LATINO",LAT | STARZ EDGE HD
 http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1389551
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | A&E Latinoamérica 230" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="MEX | MEX",• DM | A&E Latinoamérica 230
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71719
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="• DM | Animal Planet 316" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="MEX | MEX",• DM | Animal Planet 316
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73093
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="• DM | Antena 3 Internacional 218" tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="MEX | MEX",• DM | Antena 3 Internacional 218
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71718
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="• DM | AXN 222" tvg-logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="MEX | MEX",• DM | AXN 222
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73073
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="• DM | Azteca 7 107" tvg-logo="http://mylatinotv.com:8080/images/mexico/Logo_Azteca_7.png" group-title="MEX | MEX",• DM | Azteca 7 107
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71700
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="• DM | Cartoonito México 298" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvJ22l4MfeQ8mBQPO2bCIikWipQOlIERXrw&s" group-title="MEX | MEX",• DM | Cartoonito México 298
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71725
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="• DM | Canal 5 105" tvg-logo="http://mylatinotv.com:8080/images/mexico/canal5.png" group-title="MEX | MEX",• DM | Canal 5 105
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71713
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="• DM | Canal de las Estrellas 102" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" group-title="MEX | MEX",• DM | Canal de las Estrellas 102
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71698
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="• DM | Canal Once 111" tvg-logo="https://pbs.twimg.com/media/C7YpY22VwAA8cRT.jpg" group-title="MEX | MEX",• DM | Canal Once 111
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71714
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="• DM | Canal Sony 208" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png" group-title="MEX | MEX",• DM | Canal Sony 208
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73091
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="• DM | CINE LATINO 382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="MEX | MEX",• DM | CINE LATINO 382
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73076
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="• DM | Cinecanal 398" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinecanal.png" group-title="MEX | MEX",• DM | Cinecanal 398
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73084
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="• DM | CINEMAX 374" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" group-title="MEX | MEX",• DM | CINEMAX 374
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73077
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="• DM | CNN International Latin America 350" tvg-logo="http://mylatinotv.com:8080/images/mexico/cnnesp.png" group-title="MEX | MEX",• DM | CNN International Latin America 350
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71712
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="• DM | Discovery 308" tvg-logo="VLC" group-title="MEX | MEX",• DM | Discovery 308
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73094
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Discovery Home & Health 236" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="MEX | MEX",• DM | Discovery Home & Health 236
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71720
+#EXTINF:-1 tvg-id="" tvg-name="• DM | Discovery Turbo" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="MEX | MEX",• DM | Discovery Turbo
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71728
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="• DM | E! Latinoamérica 248" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png" group-title="MEX | MEX",• DM | E! Latinoamérica 248
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71722
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="• DM | ESPN 2  342" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="MEX | MEX",• DM | ESPN 2  342
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73078
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="• DM | ESPN 3 Norte 344" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn3.png" group-title="MEX | MEX",• DM | ESPN 3 Norte 344
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71727
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="• DM | ESPN 338" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn3.png" group-title="MEX | MEX",• DM | ESPN 338
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73079
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | FOX 202" tvg-logo="" group-title="MEX | MEX",• DM | FOX 202
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73072
+#EXTINF:-1 tvg-id="fox1.mx" tvg-name="• DM | Fox Premium Series Oeste 426" tvg-logo="http://mylatinotv.com:8080/images/mexico/foxseries.png" group-title="MEX | MEX",• DM | Fox Premium Series Oeste 426
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71730
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="• DM | FOX SPORTS 2  332" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="MEX | MEX",• DM | FOX SPORTS 2  332
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73080
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="• DM | Fox Sports 3  334" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports3.png" group-title="MEX | MEX",• DM | Fox Sports 3  334
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71708
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="• DM | FOX SPORTS 330" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports3.png" group-title="MEX | MEX",• DM | FOX SPORTS 330
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73081
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="• DM | FX 224" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="MEX | MEX",• DM | FX 224
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73074
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="• DM | HBO Latinoamérica 402" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEX | MEX",• DM | HBO Latinoamérica 402
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71729
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="• DM | History" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="MEX | MEX",• DM | History
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73092
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="• DM | History H2 320" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="MEX | MEX",• DM | History H2 320
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71704
+#EXTINF:-1 tvg-id="" tvg-name="• DM | Imagen 103" tvg-logo="http://mylatinotv.com:8080/images/mexico/imagen.png" group-title="MEX | MEX",• DM | Imagen 103
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71699
+#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="• DM | HBO Mundi" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-mundi-us.png" group-title="MEX | MEX",• DM | HBO Mundi
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73083
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="• DM | Milenio 356" tvg-logo="http://mylatinotv.com:8080/images/mexico/milenio.png" group-title="MEX | MEX",• DM | Milenio 356
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71709
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="• DM | TLC Latinoamérica 240" tvg-logo="https://thesmarthuman.com/wp-content/uploads/2016/03/tlc-logo.jpg" group-title="MEX | MEX",• DM | TLC Latinoamérica 240
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71721
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="• DM | TNT 370" tvg-logo="http://mylatinotv.com:8080/images/espana/tnt.jpg" group-title="MEX | MEX",• DM | TNT 370
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/73085
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="• DM | TNT Series 214" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png" group-title="MEX | MEX",• DM | TNT Series 214
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/71703
