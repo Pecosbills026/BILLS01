@@ -23,8 +23,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1118
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1183
 #EXTINF:-1 tvg-id="I1435.99979.schedulesdirect.org" tvg-name="MX: EUROPA EUROPA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/europa_europa.png" group-title="CINE",MX: EUROPA EUROPA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1184
-#EXTINF:-1 tvg-id="I297.88305.schedulesdirect.org" tvg-name="MX: FILM AND ARTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/film_and_arts.png" group-title="CINE",MX: FILM AND ARTS
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1052
 #EXTINF:-1 tvg-id="I1416.19737.schedulesdirect.org" tvg-name="MX: GOLDEN MULTIPLEX MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/golden_multiplex.png" group-title="CINE",MX: GOLDEN MULTIPLEX MX
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1162
 #EXTINF:-1 tvg-id="I1414.68317.schedulesdirect.org" tvg-name="MX: GOLDEN PLUS MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/golden.png" group-title="CINE",MX: GOLDEN PLUS MX
@@ -159,7 +157,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2142
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2141
 #EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="*MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="ENTRETENIMIENTO",MX: UNIVERSO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2130
-#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="*MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="TV ABIERTA ",MX: UNIVISION
+#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="*MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="TV ABIERTA",MX: UNIVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2132
 #EXTINF:-1 tvg-id="I1212.98111.schedulesdirect.org" tvg-name="*MX: WARNER CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/warner_channel.png" group-title="CINE",*MX: WARNER CHANNEL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2136
@@ -575,8 +573,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/417
 http://premiumultra.xyz:8080/Patriciop/912909/690
 #EXTINF:-1 tvg-id="" tvg-name="24/7: CHESPIRITO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHESPIRITO
 http://premiumultra.xyz:8080/Patriciop/912909/691
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CORAJE EL PERRO COBARDE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CORAJE EL PERRO COBARDE
-http://premiumultra.xyz:8080/Patriciop/912909/692
 #EXTINF:-1 tvg-id="" tvg-name="24/7: DINOSAURIOS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DINOSAURIOS
 http://premiumultra.xyz:8080/Patriciop/912909/693
 #EXTINF:-1 tvg-id="" tvg-name="24/7: HEY ARNOLD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: HEY ARNOLD
@@ -589,14 +585,8 @@ http://premiumultra.xyz:8080/Patriciop/912909/696
 http://premiumultra.xyz:8080/Patriciop/912909/697
 #EXTINF:-1 tvg-id="" tvg-name="24/7: GAMES OF THRONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: GAMES OF THRONES
 http://premiumultra.xyz:8080/Patriciop/912909/698
-#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY GUY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: FAMILY GUY
-http://premiumultra.xyz:8080/Patriciop/912909/699
 #EXTINF:-1 tvg-id="" tvg-name="24/7: RANMA ½" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: RANMA ½
 http://premiumultra.xyz:8080/Patriciop/912909/700
-#EXTINF:-1 tvg-id="" tvg-name="24/7: TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TWO AND A HALF
-http://premiumultra.xyz:8080/Patriciop/912909/701
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAKURA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAKURA
-http://premiumultra.xyz:8080/Patriciop/912909/702
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MR BEAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MR BEAN
 http://premiumultra.xyz:8080/Patriciop/912909/703
 #EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHAPULIN COLORADO
@@ -613,32 +603,18 @@ http://premiumultra.xyz:8080/Patriciop/912909/771
 http://premiumultra.xyz:8080/Patriciop/912909/773
 #EXTINF:-1 tvg-id="" tvg-name="24/7: TOM & JERRY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TOM & JERRY
 http://premiumultra.xyz:8080/Patriciop/912909/774
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SOUTH PARK
-http://premiumultra.xyz:8080/Patriciop/912909/775
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DORAEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DORAEMON
-http://premiumultra.xyz:8080/Patriciop/912909/776
 #EXTINF:-1 tvg-id="" tvg-name="24/7: SMALLVILLELA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SMALLVILLELA
 http://premiumultra.xyz:8080/Patriciop/912909/777
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SUPERCAMPEONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SUPERCAMPEONES
 http://premiumultra.xyz:8080/Patriciop/912909/778
 #EXTINF:-1 tvg-id="" tvg-name="24/7: SCOOBY DOO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SCOOBY DOO
 http://premiumultra.xyz:8080/Patriciop/912909/779
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAMURAI" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAMURAI
-http://premiumultra.xyz:8080/Patriciop/912909/780
-#EXTINF:-1 tvg-id="" tvg-name="24/7: POKEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: POKEMON
-http://premiumultra.xyz:8080/Patriciop/912909/781
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
-http://premiumultra.xyz:8080/Patriciop/912909/782
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://premiumultra.xyz:8080/Patriciop/912909/783
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
 http://premiumultra.xyz:8080/Patriciop/912909/784
 #EXTINF:-1 tvg-id="" tvg-name="24/7: NARUTO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: NARUTO
 http://premiumultra.xyz:8080/Patriciop/912909/785
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOONEY TUNES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOONEY TUNES
 http://premiumultra.xyz:8080/Patriciop/912909/786
-#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PRINCIPE DEL RAP" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PRINCIPE DEL RAP
-http://premiumultra.xyz:8080/Patriciop/912909/787
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (1-5)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (1-5)
 http://premiumultra.xyz:8080/Patriciop/912909/789
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (12-17)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (12-17)
@@ -649,26 +625,14 @@ http://premiumultra.xyz:8080/Patriciop/912909/791
 http://premiumultra.xyz:8080/Patriciop/912909/792
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (27-30)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (27-30)
 http://premiumultra.xyz:8080/Patriciop/912909/793
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://premiumultra.xyz:8080/Patriciop/912909/794
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ANIMANIACS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ANIMANIACS
-http://premiumultra.xyz:8080/Patriciop/912909/795
-#EXTINF:-1 tvg-id="" tvg-name="24/7: BREAKING BAD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BREAKING BAD
-http://premiumultra.xyz:8080/Patriciop/912909/796
 #EXTINF:-1 tvg-id="" tvg-name="24/7: EL GALLO CLAUDIO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL GALLO CLAUDIO
 http://premiumultra.xyz:8080/Patriciop/912909/798
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
 http://premiumultra.xyz:8080/Patriciop/912909/805
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MALCOLM" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MALCOLM
 http://premiumultra.xyz:8080/Patriciop/912909/806
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
-http://premiumultra.xyz:8080/Patriciop/912909/807
 #EXTINF:-1 tvg-id="" tvg-name="24/7: PINKY & CEREBRO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: PINKY & CEREBRO
 http://premiumultra.xyz:8080/Patriciop/912909/808
-#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
-http://premiumultra.xyz:8080/Patriciop/912909/810
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://premiumultra.xyz:8080/Patriciop/912909/811
 #EXTINF:-1 tvg-id="" tvg-name="24/7: COMEDIA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: COMEDIA
 http://premiumultra.xyz:8080/Patriciop/912909/812
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Fox Sports HD
@@ -677,20 +641,12 @@ http://premiumultra.xyz:8080/Patriciop/912909/24771
 http://premiumultra.xyz:8080/Patriciop/912909/24772
 #EXTINF:-1 tvg-id="" tvg-name="LA_MEX-:FOX SPORTS PREMIUM" tvg-logo="" group-title="→ MÉXICO ←",LA_MEX-:FOX SPORTS PREMIUM
 http://premiumultra.xyz:8080/Patriciop/912909/24775
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:MTV Hits" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:MTV Hits
-http://premiumultra.xyz:8080/Patriciop/912909/24778
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Al Jazeera" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Al Jazeera
 http://premiumultra.xyz:8080/Patriciop/912909/24780
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:AXN" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:AXN
 http://premiumultra.xyz:8080/Patriciop/912909/24781
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Aym Sports" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Aym Sports
-http://premiumultra.xyz:8080/Patriciop/912909/24782
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Az Cinema" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Az Cinema
 http://premiumultra.xyz:8080/Patriciop/912909/24783
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Az Clic" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Az Clic
-http://premiumultra.xyz:8080/Patriciop/912909/24784
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Az Corazón" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Az Corazón
-http://premiumultra.xyz:8080/Patriciop/912909/24785
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Azteca Uno" tvg-logo="" group-title="TV ABIERTA",MX: Azteca Uno
 http://premiumultra.xyz:8080/Patriciop/912909/24787
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Azteca 7" tvg-logo="" group-title="TV ABIERTA",MX: Azteca 7
@@ -717,10 +673,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24808
 http://premiumultra.xyz:8080/Patriciop/912909/24809
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Discovery Turbo" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Discovery Turbo
 http://premiumultra.xyz:8080/Patriciop/912909/24810
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DW" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:DW
-http://premiumultra.xyz:8080/Patriciop/912909/24813
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:El Gourmet" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:El Gourmet
-http://premiumultra.xyz:8080/Patriciop/912909/24814
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:ESPN" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:ESPN
 http://premiumultra.xyz:8080/Patriciop/912909/24815
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:ESPN 2" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:ESPN 2
@@ -743,36 +695,20 @@ http://premiumultra.xyz:8080/Patriciop/912909/24825
 http://premiumultra.xyz:8080/Patriciop/912909/24826
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Golf Channel" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Golf Channel
 http://premiumultra.xyz:8080/Patriciop/912909/24827
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:HLN" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:HLN
-http://premiumultra.xyz:8080/Patriciop/912909/24828
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Ingenio TV" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Ingenio TV
-http://premiumultra.xyz:8080/Patriciop/912909/24831
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:MTV Live" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:MTV Live
-http://premiumultra.xyz:8080/Patriciop/912909/24833
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Natgeo" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Natgeo
 http://premiumultra.xyz:8080/Patriciop/912909/24834
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Paramount Network" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Paramount Network
 http://premiumultra.xyz:8080/Patriciop/912909/24838
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:AYM SPORTS" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:AYM SPORTS
-http://premiumultra.xyz:8080/Patriciop/912909/24841
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Space" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Space
 http://premiumultra.xyz:8080/Patriciop/912909/24842
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Studio Universal" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Studio Universal
 http://premiumultra.xyz:8080/Patriciop/912909/24844
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TBS" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TBS
-http://premiumultra.xyz:8080/Patriciop/912909/24845
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TLC" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TLC
 http://premiumultra.xyz:8080/Patriciop/912909/24850
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TNT" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TNT
 http://premiumultra.xyz:8080/Patriciop/912909/24852
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TNT Series" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TNT Series
 http://premiumultra.xyz:8080/Patriciop/912909/24853
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TruTV" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TruTV
-http://premiumultra.xyz:8080/Patriciop/912909/24854
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:France 24" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:France 24
-http://premiumultra.xyz:8080/Patriciop/912909/24876
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:TVE" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:TVE
-http://premiumultra.xyz:8080/Patriciop/912909/24879
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Universal Channel" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Universal Channel
 http://premiumultra.xyz:8080/Patriciop/912909/24881
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:A+ 7.2" tvg-logo="" group-title="TV ABIERTA",MX: A+ 7.2
@@ -783,24 +719,14 @@ http://premiumultra.xyz:8080/Patriciop/912909/24886
 http://premiumultra.xyz:8080/Patriciop/912909/24887
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:AMC HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:AMC HD
 http://premiumultra.xyz:8080/Patriciop/912909/24888
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Aym Sports HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Aym Sports HD
-http://premiumultra.xyz:8080/Patriciop/912909/24889
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Az Cinema HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Az Cinema HD
-http://premiumultra.xyz:8080/Patriciop/912909/24890
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Az Clic HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Az Clic HD
-http://premiumultra.xyz:8080/Patriciop/912909/24891
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Az Corazón HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Az Corazón HD
-http://premiumultra.xyz:8080/Patriciop/912909/24892
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Az Mundo HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Az Mundo HD
-http://premiumultra.xyz:8080/Patriciop/912909/24893
+http://premiumultra.xyz:8080/Patriciop/912909/248902
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Azteca 7 HD" tvg-logo="" group-title="TV ABIERTA",MX: Azteca 7 HD
 http://premiumultra.xyz:8080/Patriciop/912909/24894
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Canal 5 HD" tvg-logo="" group-title="TV ABIERTA",MX: Canal 5 HD
 http://premiumultra.xyz:8080/Patriciop/912909/24902
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Canal Once HD" tvg-logo="" group-title="TV ABIERTA",MX: Canal Once HD
 http://premiumultra.xyz:8080/Patriciop/912909/24905
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:CNN International" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:CNN International
-http://premiumultra.xyz:8080/Patriciop/912909/24906
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Comedy Central HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Comedy Central HD
 http://premiumultra.xyz:8080/Patriciop/912909/24907
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Channel HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Discovery Channel HD
@@ -811,8 +737,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24909
 http://premiumultra.xyz:8080/Patriciop/912909/24911
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Turbo HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Discovery Turbo HD
 http://premiumultra.xyz:8080/Patriciop/912909/24912
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:DW" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:DW
-http://premiumultra.xyz:8080/Patriciop/912909/24913
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:E! Entertainment HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:E! Entertainment HD
 http://premiumultra.xyz:8080/Patriciop/912909/24914
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ESPN 2 HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:ESPN 2 HD
@@ -831,12 +755,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24923
 http://premiumultra.xyz:8080/Patriciop/912909/24924
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Paramount Network HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Paramount Network HD
 http://premiumultra.xyz:8080/Patriciop/912909/24937
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:RMS HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:RMS HD
-http://premiumultra.xyz:8080/Patriciop/912909/24938
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Star TVE HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Star TVE HD
-http://premiumultra.xyz:8080/Patriciop/912909/24940
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:BitMe HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:BitMe HD
-http://premiumultra.xyz:8080/Patriciop/912909/24943
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Azteca Uno HD" tvg-logo="" group-title="TV ABIERTA",MX: Azteca Uno HD
 http://premiumultra.xyz:8080/Patriciop/912909/24944
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TNT Series HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TNT Series HD
