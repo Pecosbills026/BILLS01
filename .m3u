@@ -711,8 +711,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24852
 http://premiumultra.xyz:8080/Patriciop/912909/24853
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Universal Channel" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Universal Channel
 http://premiumultra.xyz:8080/Patriciop/912909/24881
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:A+ 7.2" tvg-logo="" group-title="TV ABIERTA",MX: A+ 7.2
-http://premiumultra.xyz:8080/Patriciop/912909/24885
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ADN40 HD" tvg-logo="" group-title="TV ABIERTA",MX: ADN40 HD
 http://premiumultra.xyz:8080/Patriciop/912909/24886
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Al Jazeera HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Al Jazeera HD
@@ -721,12 +719,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24887
 http://premiumultra.xyz:8080/Patriciop/912909/24888
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Az Cinema HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Az Cinema HD
 http://premiumultra.xyz:8080/Patriciop/912909/248902
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Azteca 7 HD" tvg-logo="" group-title="TV ABIERTA",MX: Azteca 7 HD
-http://premiumultra.xyz:8080/Patriciop/912909/24894
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Canal 5 HD" tvg-logo="" group-title="TV ABIERTA",MX: Canal 5 HD
-http://premiumultra.xyz:8080/Patriciop/912909/24902
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Canal Once HD" tvg-logo="" group-title="TV ABIERTA",MX: Canal Once HD
-http://premiumultra.xyz:8080/Patriciop/912909/24905
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Comedy Central HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Comedy Central HD
 http://premiumultra.xyz:8080/Patriciop/912909/24907
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Channel HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Discovery Channel HD
@@ -755,8 +747,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/24923
 http://premiumultra.xyz:8080/Patriciop/912909/24924
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Paramount Network HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Paramount Network HD
 http://premiumultra.xyz:8080/Patriciop/912909/24937
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Azteca Uno HD" tvg-logo="" group-title="TV ABIERTA",MX: Azteca Uno HD
-http://premiumultra.xyz:8080/Patriciop/912909/24944
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TNT Series HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TNT Series HD
 http://premiumultra.xyz:8080/Patriciop/912909/24946
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:De Película Plus HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:De Película Plus HD
@@ -771,10 +761,6 @@ http://premiumultra.xyz:8080/Patriciop/912909/55050
 http://premiumultra.xyz:8080/Patriciop/912909/55051
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca UNO." tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ MÉXICO ←",MX || Azteca UNO.
 http://premiumultra.xyz:8080/Patriciop/912909/55052
-#EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 7 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="TV ABIERTA",MX: Azteca 7 HD
-http://premiumultra.xyz:8080/Patriciop/912909/55053
-#EXTINF:-1 tvg-id="" tvg-name="MX || Azteca UNO HD" tvg-logo="https://i.imgur.com/5FkjvqF.jpg" group-title="TV ABIERTA",MX: Azteca UNO HD
-http://premiumultra.xyz:8080/Patriciop/912909/55054
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 1 HD Opc 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="→ MÉXICO ←",MX || Azteca 1 HD Opc 2
 http://premiumultra.xyz:8080/Patriciop/912909/55055
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca Corazon SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ MÉXICO ←",MX || Azteca Corazon SD
